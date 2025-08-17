@@ -1,3 +1,4 @@
 # devops-demo
 this is my first git repo
-Author- Nitin Panwar
+<br>
+<h1> Author-- Nitin Panwar</h1>
